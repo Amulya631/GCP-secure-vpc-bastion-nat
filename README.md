@@ -116,15 +116,6 @@ Custom VPC
 * ✅ Private VM can access internet via Cloud NAT
 * ❌ Private VM not reachable from the internet
 
----
-
-## 📸 Screenshots (Recommended)
-
-* VPC and subnet configuration
-* VM list showing no external IP for private VM
-* Firewall rules
-* SSH hop terminal output
-* Cloud NAT internet access verification
 
 ## 👤 Author
 
