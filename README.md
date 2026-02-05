@@ -1,5 +1,5 @@
-🚀 Secure GCP VPC with Public & Private Subnets
-📌 Overview
+🚀 **Secure GCP VPC with Public & Private Subnets**
+📌 **Overview**
 
 This project demonstrates the design and implementation of a secure Google Cloud Platform (GCP) network architecture using a custom VPC with public and private subnets.
 It follows real-world cloud security best practices, including restricted access, bastion host pattern, and outbound internet access via Cloud NAT.
