@@ -128,8 +128,10 @@ Custom VPC
 
 ## 👤 Author
 
-**Ammu**
+**Batila Amulya**
+
 Cloud & Infrastructure Enthusiast
+
 GCP | Networking | Cloud Security
 
 
